@@ -1,0 +1,43 @@
+.bgimg {
+  background-image: url("./bg.jpg");
+  /* The image used */
+
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* backdrop-filter: ; */
+  /* opacity: 0.5; */
+}
+.bgimg::after {
+  /* content: ""; */
+  /* background-color: #00000067; */
+  /* min-height: 500px; */
+  /* position: absolute;
+  display: block;
+  top: 0;
+  width: 100%;
+  height: 200%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: 1; */
+}
+
+.MuiDataGrid-cell,
+table {
+  color: #fff !important;
+}
+
+.table {
+  color: #fff !important;
+}
+.css-1gak8h1-MuiToolbar-root-MuiTablePagination-toolbar {
+  color: #fff !important;
+}
