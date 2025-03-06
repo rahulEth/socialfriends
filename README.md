@@ -1,11 +1,11 @@
-![Logo](docs/efrnd.svg)
+![Logo](docs/SFRND.svg)
 
 
-## 🌍 Empowering Change: Rewarding Eco-Friendly Actions with $EFRND Tokens 🌱
+## 🌍 Empowering Change: Rewarding Eco-Friendly Actions with $SFRND Tokens 🌱
 
 ## Overview
 
-This Solution Build on [Ethereum Blockchain](https://ethereum.org). At EarthFriends, we reward users for eco-friendly actions like planting trees, adopting sustainable practices, eco-friendly products, managing waste, or raising environmental awareness. Users simply upload proof of their activity, and after successful verification by Environment Auditors, they earn $EFRND tokens directly in their wallet that supports [Ethereum Blockchain](https://ethereum.org).
+This Solution Build on [Ethereum Blockchain](https://ethereum.org). At EarthFriends, we reward users for eco-friendly actions like planting trees, adopting sustainable practices, eco-friendly products, managing waste, or raising environmental awareness. Users simply upload proof of their activity, and after successful verification by Environment Auditors, they earn $SFRND tokens directly in their wallet that supports [Ethereum Blockchain](https://ethereum.org).
 
 ## Problem Solved
 
@@ -15,7 +15,7 @@ Environmental conservation often struggles with a lack of tangible incentives, d
 
 EarthFriends bridges this gap by creating a rewards-based system that incentivizes users to contribute to a greener planet through verified, tokenized recognition. 
 We are utilizing [Ethereum Blockchain](https://ethereum.org) for this solution as it promot sustainability and carbon nutrility. We have deployed Auditor and ERC20 Token contract on [Ethereum Blockchain](https://ethereum.org).
-If User do any activity like waste managment, planting tree, awareness campaign etc, he just simply upload the photos of the activity as proof and create an token transaction. On the Other side admin will review and verify the activity and approve the token transaction and mint the $EFRND token to user's wallet.
+If User do any activity like waste managment, planting tree, awareness campaign etc, he just simply upload the photos of the activity as proof and create an token transaction. On the Other side admin will review and verify the activity and approve the token transaction and mint the $SFRND token to user's wallet.
 
 ## Architecture
 
@@ -107,7 +107,7 @@ Ta-da You are good to go and explore earthFriends Admin Portal!
 
 ## Description
 
-At earthFrineds we insetivise users for doing any eco-friendy activity weather it is planting a new tree, adopting eco-friendly aggriculture methods, doing waste managment, using eco-friendly products, running environemnt awareness campaign. Any one can earn $EFRND token just doing good things for betterment of the world. 
+At earthFrineds we insetivise users for doing any eco-friendy activity weather it is planting a new tree, adopting eco-friendly aggriculture methods, doing waste managment, using eco-friendly products, running environemnt awareness campaign. Any one can earn $SFRND token just doing good things for betterment of the world. 
 
 
 ## Contract Addresses
