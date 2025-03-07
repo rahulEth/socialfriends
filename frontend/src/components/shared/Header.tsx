@@ -2,7 +2,7 @@ import React from 'react'
 import ConnectWalletButton from './ConnectWalletButton'
 import Image from 'next/image'
 
-import efrnd from "../../../public/images/efrnd.png";
+import sfrnd from "../../../public/images/sfrnd.png";
 import Link from 'next/link';
 
 const Header = (): React.JSX.Element => {
@@ -14,8 +14,8 @@ const Header = (): React.JSX.Element => {
         <Link href={"/"}>
 
           <Image
-            src={efrnd}
-            alt='EFRND'
+            src={sfrnd}
+            alt='SFRND'
             width={75}
             height={75}
 

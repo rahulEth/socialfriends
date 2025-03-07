@@ -34,7 +34,7 @@ const connectors = connectorsForWallets(
     {
 
 
-        appName: "Earth Friends",
+        appName: "Social Friends",
 
         projectId: "e39f8f6b47ff15394a5093b78b2a333b",
 

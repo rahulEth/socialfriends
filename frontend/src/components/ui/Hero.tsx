@@ -9,7 +9,7 @@ const Hero = (): React.JSX.Element => {
     <section className="flex items-center justify-center max-w-[1300px] gap-20 mx-auto flex-wrap-reverse xl:flex-nowrap py-10">
       <div className="flex items-center justify-end text-center xl:text-left gap-20 px-10 w-[50%]">
         <div>
-          <h2 className="text-3xl font-bold"> Earth Friends </h2>
+          <h2 className="text-3xl font-bold"> Social Friends </h2>
           <span className="text-[16px] flex items-center justify-end  ">
             <br />
             Building a Greener Future Through Eco-Friendly Practices like
