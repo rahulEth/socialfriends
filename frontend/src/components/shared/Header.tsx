@@ -2,7 +2,7 @@ import React from 'react'
 import ConnectWalletButton from './ConnectWalletButton'
 import Image from 'next/image'
 
-import efrnd from "../../../public/Images/efrnd.png";
+import efrnd from "../../../public/images/efrnd.png";
 import Link from 'next/link';
 
 const Header = (): React.JSX.Element => {

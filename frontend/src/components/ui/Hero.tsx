@@ -2,7 +2,7 @@ import React from "react";
 
 import Image from "next/image";
 
-import heroImage from "../../../public/Images/environment.jpg";
+import heroImage from "../../../public/images/environment.jpg";
 
 const Hero = (): React.JSX.Element => {
   return (
